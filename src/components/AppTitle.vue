@@ -14,7 +14,7 @@ export default {
   <h1>{{ title }}</h1>
 </template>
 
-<style>
+<style scoped>
     h1{
         color: #41B883;
     }
